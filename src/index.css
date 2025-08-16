@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0e7ff 100%);
+}
+
+#tooltip {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Ensure proper rendering of SVG elements */
+svg {
+  overflow: visible;
+}
+
+.county {
+  transition: stroke 0.2s ease, stroke-width 0.2s ease;
+}
+
+.county:hover {
+  opacity: 0.8;
+}
+
+/* Legend styling */
+#legend .tick text {
+  font-weight: 500;
+}
+
+#legend .domain {
+  stroke-width: 1px;
+}

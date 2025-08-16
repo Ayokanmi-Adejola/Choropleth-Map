@@ -115,4 +115,4 @@ npm run test
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) for providing the datasets and project requirements
 - [D3.js](https://d3js.org/) community for excellent documentation and examples
-- [US Census Bureau](https://www.census.gov/) for the original education data# Choropleth-Map
+- [US Census Bureau](https://www.census.gov/) for the original education data

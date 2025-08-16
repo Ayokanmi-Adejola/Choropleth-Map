@@ -44,7 +44,7 @@ This choropleth map provides an intuitive way to explore educational patterns ac
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Ayokanmi-Adejola/Choropleth-Map>
+git clone https://github.com/Ayokanmi-Adejola/Choropleth-Map
 cd us-education-choropleth-map
 ```
 

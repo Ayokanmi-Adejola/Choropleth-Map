@@ -2,6 +2,9 @@
 
 A modern, interactive data visualization displaying educational attainment across US counties using D3.js and React. This project visualizes the percentage of adults (age 25+) with a bachelor's degree or higher from 2010-2014 census data.
 
+<img width="1920" height="1386" alt="image" src="https://github.com/user-attachments/assets/85e9d799-bc04-4e0c-8de7-2f87c1d13320" />
+
+
 ## 🎯 Overview
 
 This choropleth map provides an intuitive way to explore educational patterns across the United States at the county level. The visualization uses color-coding to represent different education levels, making it easy to identify regional trends and disparities in educational attainment.
@@ -113,4 +116,3 @@ npm run test
 - [FreeCodeCamp](https://www.freecodecamp.org/) for providing the datasets and project requirements
 - [D3.js](https://d3js.org/) community for excellent documentation and examples
 - [US Census Bureau](https://www.census.gov/) for the original education data# Choropleth-Map
-# Choropleth-Map
